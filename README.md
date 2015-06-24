@@ -7,3 +7,5 @@ Coming soon: Implementation of Angular front-end, SQL database, scraper included
 NBA team logos sourced from sportslogos.net.
 
 Data imported using an API created with import.io's software tool.
+
+Contributors: [Troy Silverman](https://github.com/TRSilverman), [Alexandria Torres](https://github.com/alexandriaseattle).
